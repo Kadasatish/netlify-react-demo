@@ -1,0 +1,4 @@
+[build]                # <--- START
+  publish = "build"
+  functions = "functions"
+                       # <--- END
